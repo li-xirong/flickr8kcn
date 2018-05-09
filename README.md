@@ -32,4 +32,4 @@ Flickr8K-CN is a bilingual (English-to-Chinese) extension of the popular [Flickr
 
 ## Citations
 
-1.  Xirong Li, Weiyu Lan, Jianf4eng Dong, Hailong Liu, [Adding Chinese Captions to Images](pub/icmr2016_chisent.pdf), ACM ICMR 2016
+1.  Xirong Li, Weiyu Lan, Jianfeng Dong, Hailong Liu, [Adding Chinese Captions to Images](pub/icmr2016_chisent.pdf), ACM ICMR 2016
